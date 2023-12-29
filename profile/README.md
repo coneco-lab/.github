@@ -4,6 +4,6 @@
 
 - :question: [CoN&Co Lab](https://www.cimec.unitn.it/en/CoNeCo) is the Cognition, Neurostimulation & Connectivity Laboratory
 
-- :round_pushpin: CoN&Co is located at the [Center for Mind/Brain Sciences (CIMeC)](https://www.cimec.unitn.it/en), University of Trento, Italy :it:
+- :round_pushpin: CoN&Co is hosted at the [Center for Mind/Brain Sciences (CIMeC)](https://www.cimec.unitn.it/en), University of Trento, Rovereto (TN), Italy :it:
 
-- :books:CoN&Co studies brain connectivity and cognition through multimodal neuroimaging and non-invasive brain stimulation, with a special focus on electroenphalography (EEG) and transcranial magnetic stimulation (TMS)
+- :microscope: CoN&Co studies brain connectivity and cognition through multimodal neuroimaging and non-invasive brain stimulation, with a focus on electroenphalography (EEG) and transcranial magnetic stimulation (TMS)
